@@ -4,7 +4,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&link=https://github.com/sap03110)](https://github.com/sap03110/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-000000?style=flat&color=orange&logo=bloglovin&link=https://guiyomi.tistory.com/)](https://guiyomi.tistory.com/)
 [![Github Page](https://img.shields.io/badge/-Portfolio-CC0000?style=flat&link=https://sap03110.github.io/)](https://sap03110.github.io/)
-[![Blog](http://img.shields.io/badge/-Rocketpunch-000000?style=flat&color=blue&link=https://www.rocketpunch.com/@power0mj/)](https://www.rocketpunch.com/@power0mj/)
 
 ```javascript
 #!/usr/bin/env node
