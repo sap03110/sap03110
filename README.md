@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/wastfg6972@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wastfg6972@naver.com)](mailto:wastfg6972@naver.com)
 [![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&link=https://github.com/sap03110)](https://github.com/sap03110/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-000000?style=flat&color=orange&logo=bloglovin&link=https://guiyomi.tistory.com/)](https://guiyomi.tistory.com/)
-[![Github Page](https://img.shields.io/badge/-Portfolio-CC0000?style=flat&link=https://sap03110.github.io/)](https://sap03110.github.io/)
+[![Github Page](https://img.shields.io/badge/-Portfolio-CC0000?style=flat&link=https://sap03110.github.io/)](https://pie-starflower-f34.notion.site/MJKIM-Resume-afdbb715768b45fca64229896debf7bd)
 
 ```javascript
 #!/usr/bin/env node
